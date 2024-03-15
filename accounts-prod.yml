@@ -1,2 +1,14 @@
 server: 
  meassage: "From Config Server -production Accounts using Git Repository  using Spring CLOUD BUS"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ZettaBank accounts related prod APIs "
+  contactDetails:
+    name: "Valerie - Product Owner"
+    email: "valerie@zettabank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
